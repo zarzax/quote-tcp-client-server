@@ -1,0 +1,59 @@
+"Never trust a computer you can't throw out a window." 
+-Steve Wozniak 
+"I do not fear computers. I fear lack of them." 
+-Isaac Asimov 
+"If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get one million miles to the gallon, and explode once a year, killing everyone inside." 
+-Robert X Cringely 
+"I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image." 
+-Stephen Hawking 
+"Any sufficiently advanced bug is indistinguishable from a feature." 
+-Rich Kulawiec 
+"C:\DOS C:\DOS\RUN \RUN\DOS\RUN" 
+-Anon. 
+"There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence." 
+-Jeremy S. Anderson 
+"Hit any user to continue." 
+-Anon. 
+"If we can dispel the delusion that learning about computers should be an activity of fiddling with array indexes and worrying whether X is an integer or a real number, we can begin to focus on programming as a source of ideas." 
+-Harold Abelson 
+"C makes it easy to shoot yourself in the foot. C++ makes it harder, but when you do, it blows away your whole leg." 
+-Bjarne Stroustrup 
+"The computer programmer is a creator of universes for which he alone is responsible. Universes of virtually unlimited complexity can be created in the form of computer programs." 
+-Joseph Weizenbaum 
+"The best way to have a good idea is to have lots of ideas." 
+-Linus Pauling 
+"Computer Science is no more about computers than astronomy is about telescopes."
+-E. W. Dijkstra
+"There is no reason for any individual to have a computer in his home."
+-Ken Olsen, President, Digital Equipment, 1977
+"Where a calculator on the ENIAC is equpped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vaccuum tubes and perhaps weigh 1.5 tons."
+-Popular Mechanics, March 1949
+"Counting in octal is just like counting in decimal, if you don't use your thumbs."
+-Tom Lehrer
+"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."
+-E. W. Dijkstra 
+"Trying to outsmart a compiler defeats much of the purpose of using one."
+-Kernighan & Plauger, The Elements of Programming Style. 
+"I will not be a lemming and follow the crowd over the cliff and into the C."
+-John (Jack) Beidler. 
+"C is quirky, flawed, and an enormous success."
+-Dennis M. Ritchie
+"You know you're a geek when... You try to shoo a fly away from the monitor with your cursor. That just happened to me. It was scary."
+-Juuso Heimonen
+"I think there is a world market for maybe five computers."
+-Thomas Watson, chairman of IBM, 1943
+"I have traveled the length and breadth of this country and talked with the best people, and I can assure you that data processing is a fad that won't last out the year."
+-The editor in charge of business books for Prentice Hall, 1957. 
+"The Internet ? Is that thing still around ?"
+-Homer Simpson
+"The Net interprets censorship as damage and routes around it."
+-John Gilmore
+"640K ought to be enough for anybody."
+-Bill Gates, 1981. 
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
+-Bill Gates
+"...the best way to prepare [to be a programmer] is to write programs, and to study great programs that other people have written. In my case, I went to the garbage cans at the Computer Science Center and fished out listings of their operating system."
+-Bill Gates. 
+"Indeed, it would not be an exaggeration to describe the history of the computer industry for the past decade as a massive effort to keep up with Apple."
+-Byte, December 1994
+
